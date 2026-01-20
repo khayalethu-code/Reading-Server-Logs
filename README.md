@@ -8,7 +8,7 @@ Demonstrating proficiency in Linux CLI tools (cat, sudo, head, less, tail) and s
 
 **Objectives**
 
-The primary objective of this project is to master the essential tools and techniques for managing, reading, and analyzing Linux server logs. You will learn how to:
+The primary objective of this project is to master the essential tools and techniques for managing, reading, and analyzing Linux server logs. I learned how to:
 
 * Utilize standard command-line tools like cat, more, less, and tail to navigate plain-text log files efficiently.
 
